@@ -6,7 +6,7 @@ Simply download it and import it from your CSS library.
 [![Build Status](https://api.travis-ci.org/brandedux/smidge.svg?branch=master)](https://travis-ci.org/brandedux/smidge)
 
 ## Getting started
-Download or clone the code.
+Download or clone the code.<br /> 
 ```git clone https://github.com/brandedux/smidge.git```
 
 **Import Smidge:**<br /> 
