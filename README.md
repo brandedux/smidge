@@ -1,6 +1,4 @@
-# Smidge
-👌 Smidge is box-model margin & padding classes ✨by Jeff Davis
-
+# 👌Smidge
 Simply download it and import it from your CSS library.
 
 [![Build Status](https://api.travis-ci.org/brandedux/smidge.svg?branch=master)](https://travis-ci.org/brandedux/smidge)
